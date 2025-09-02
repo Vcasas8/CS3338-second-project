@@ -1,0 +1,38 @@
+commit 8489c66854ef66e3bd80ad0c3f5a20e32c39b91d
+Author: Vivian Casas <vcasas8@calstatela.edu>
+Date:   Tue Sep 2 15:33:43 2025 -0700
+
+    Updated with my favorite movie and game
+
+commit edc249e71f23f22d7a20db0d091e335dfcd1d391
+Author: Vivian Casas <vcasas8@calstatela.edu>
+Date:   Tue Sep 2 15:31:06 2025 -0700
+
+    Updated with my favorite food
+
+commit d62bb4a6c5159b460ad556c123a4994a44f59b15
+Author: Vivian Casas <vcasas8@calstatela.edu>
+Date:   Tue Sep 2 14:17:09 2025 -0700
+
+    Commit my README
+
+commit c19ba63fa062880455da0e46f3a64aace404e8aa
+Merge: 1d2bfc0 90d5c94
+Author: Vivian Casas <vcasas8@calstatela.edu>
+Date:   Tue Sep 2 14:11:23 2025 -0700
+
+    Merge pull request #1 from Vcasas8/info-fill
+    
+    Filled in the blanks in index.html
+
+commit 90d5c949540023bde8966c30c8473fc9c7214a43
+Author: Vivian Casas <vcasas8@calstatela.edu>
+Date:   Tue Sep 2 14:07:43 2025 -0700
+
+    Filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
